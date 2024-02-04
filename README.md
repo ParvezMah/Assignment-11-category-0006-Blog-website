@@ -1,8 +1,9 @@
-# React + Vite
+# Blogium - A Blog Website from Parvez Mahamud
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to '#Blogium', a dynamic blog offering a diverse array of captivating content spanning technology, lifestyle, philosophy, travel, and more. Immerse yourself in a vibrant community of like-minded individuals, engaging in thought-provoking discussions and expanding your knowledge. Stay ahead of the curve with our regularly updated articles
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features of Blogium (Blogging Website)
+    1. Routing Using React Router
+    2. Dark Mode Using Tailwind CSS
+    3. Authentication Using Firebase & JWT
